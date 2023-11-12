@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Phone.App/1.0.0": {
+        "dependencies": {
+          "Phone.Logic": "1.0.0"
+        },
+        "runtime": {
+          "Phone.App.dll": {}
+        }
+      },
+      "Phone.Logic/1.0.0": {
+        "runtime": {
+          "Phone.Logic.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Phone.App/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Phone.Logic/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
