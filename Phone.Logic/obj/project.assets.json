@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\foodfrontend\\spicy stuff\\Phone.Logic\\Phone.Logic.csproj",
+      "projectUniqueName": "c:\\Users\\tantk\\OneDrive\\Documents\\GitHub\\PhoneAppStuff\\Phone.Logic\\Phone.Logic.csproj",
       "projectName": "Phone.Logic",
-      "projectPath": "D:\\foodfrontend\\spicy stuff\\Phone.Logic\\Phone.Logic.csproj",
+      "projectPath": "c:\\Users\\tantk\\OneDrive\\Documents\\GitHub\\PhoneAppStuff\\Phone.Logic\\Phone.Logic.csproj",
       "packagesPath": "C:\\Users\\tantk\\.nuget\\packages\\",
-      "outputPath": "D:\\foodfrontend\\spicy stuff\\Phone.Logic\\obj\\",
+      "outputPath": "c:\\Users\\tantk\\OneDrive\\Documents\\GitHub\\PhoneAppStuff\\Phone.Logic\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

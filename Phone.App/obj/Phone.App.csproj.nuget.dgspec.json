@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\foodfrontend\\spicy stuff\\Phone.App\\Phone.App.csproj": {}
+    "C:\\Users\\tantk\\OneDrive\\Documents\\GitHub\\PhoneAppStuff\\Phone.App\\Phone.App.csproj": {}
   },
   "projects": {
-    "D:\\foodfrontend\\spicy stuff\\Phone.App\\Phone.App.csproj": {
+    "C:\\Users\\tantk\\OneDrive\\Documents\\GitHub\\PhoneAppStuff\\Phone.App\\Phone.App.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\foodfrontend\\spicy stuff\\Phone.App\\Phone.App.csproj",
+        "projectUniqueName": "C:\\Users\\tantk\\OneDrive\\Documents\\GitHub\\PhoneAppStuff\\Phone.App\\Phone.App.csproj",
         "projectName": "Phone.App",
-        "projectPath": "D:\\foodfrontend\\spicy stuff\\Phone.App\\Phone.App.csproj",
+        "projectPath": "C:\\Users\\tantk\\OneDrive\\Documents\\GitHub\\PhoneAppStuff\\Phone.App\\Phone.App.csproj",
         "packagesPath": "C:\\Users\\tantk\\.nuget\\packages\\",
-        "outputPath": "D:\\foodfrontend\\spicy stuff\\Phone.App\\obj\\",
+        "outputPath": "C:\\Users\\tantk\\OneDrive\\Documents\\GitHub\\PhoneAppStuff\\Phone.App\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
@@ -32,8 +32,8 @@
           "net8.0": {
             "targetAlias": "net8.0",
             "projectReferences": {
-              "D:\\foodfrontend\\spicy stuff\\Phone.Logic\\Phone.Logic.csproj": {
-                "projectPath": "D:\\foodfrontend\\spicy stuff\\Phone.Logic\\Phone.Logic.csproj"
+              "C:\\Users\\tantk\\OneDrive\\Documents\\GitHub\\PhoneAppStuff\\Phone.Logic\\Phone.Logic.csproj": {
+                "projectPath": "C:\\Users\\tantk\\OneDrive\\Documents\\GitHub\\PhoneAppStuff\\Phone.Logic\\Phone.Logic.csproj"
               }
             }
           }
@@ -67,14 +67,14 @@
         }
       }
     },
-    "D:\\foodfrontend\\spicy stuff\\Phone.Logic\\Phone.Logic.csproj": {
+    "C:\\Users\\tantk\\OneDrive\\Documents\\GitHub\\PhoneAppStuff\\Phone.Logic\\Phone.Logic.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\foodfrontend\\spicy stuff\\Phone.Logic\\Phone.Logic.csproj",
+        "projectUniqueName": "C:\\Users\\tantk\\OneDrive\\Documents\\GitHub\\PhoneAppStuff\\Phone.Logic\\Phone.Logic.csproj",
         "projectName": "Phone.Logic",
-        "projectPath": "D:\\foodfrontend\\spicy stuff\\Phone.Logic\\Phone.Logic.csproj",
+        "projectPath": "C:\\Users\\tantk\\OneDrive\\Documents\\GitHub\\PhoneAppStuff\\Phone.Logic\\Phone.Logic.csproj",
         "packagesPath": "C:\\Users\\tantk\\.nuget\\packages\\",
-        "outputPath": "D:\\foodfrontend\\spicy stuff\\Phone.Logic\\obj\\",
+        "outputPath": "C:\\Users\\tantk\\OneDrive\\Documents\\GitHub\\PhoneAppStuff\\Phone.Logic\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

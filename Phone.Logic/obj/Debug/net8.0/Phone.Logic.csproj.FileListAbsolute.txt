@@ -10,3 +10,15 @@ D:\foodfrontend\spicy stuff\Phone.Logic\obj\Debug\net8.0\Phone.Logic.dll
 D:\foodfrontend\spicy stuff\Phone.Logic\obj\Debug\net8.0\refint\Phone.Logic.dll
 D:\foodfrontend\spicy stuff\Phone.Logic\obj\Debug\net8.0\Phone.Logic.pdb
 D:\foodfrontend\spicy stuff\Phone.Logic\obj\Debug\net8.0\ref\Phone.Logic.dll
+C:\Users\tantk\OneDrive\Documents\GitHub\PhoneAppStuff\Phone.Logic\bin\Debug\net8.0\Phone.Logic.deps.json
+C:\Users\tantk\OneDrive\Documents\GitHub\PhoneAppStuff\Phone.Logic\bin\Debug\net8.0\Phone.Logic.dll
+C:\Users\tantk\OneDrive\Documents\GitHub\PhoneAppStuff\Phone.Logic\bin\Debug\net8.0\Phone.Logic.pdb
+C:\Users\tantk\OneDrive\Documents\GitHub\PhoneAppStuff\Phone.Logic\obj\Debug\net8.0\Phone.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tantk\OneDrive\Documents\GitHub\PhoneAppStuff\Phone.Logic\obj\Debug\net8.0\Phone.Logic.AssemblyInfoInputs.cache
+C:\Users\tantk\OneDrive\Documents\GitHub\PhoneAppStuff\Phone.Logic\obj\Debug\net8.0\Phone.Logic.AssemblyInfo.cs
+C:\Users\tantk\OneDrive\Documents\GitHub\PhoneAppStuff\Phone.Logic\obj\Debug\net8.0\Phone.Logic.csproj.CoreCompileInputs.cache
+C:\Users\tantk\OneDrive\Documents\GitHub\PhoneAppStuff\Phone.Logic\obj\Debug\net8.0\Phone.Logic.sourcelink.json
+C:\Users\tantk\OneDrive\Documents\GitHub\PhoneAppStuff\Phone.Logic\obj\Debug\net8.0\Phone.Logic.dll
+C:\Users\tantk\OneDrive\Documents\GitHub\PhoneAppStuff\Phone.Logic\obj\Debug\net8.0\refint\Phone.Logic.dll
+C:\Users\tantk\OneDrive\Documents\GitHub\PhoneAppStuff\Phone.Logic\obj\Debug\net8.0\Phone.Logic.pdb
+C:\Users\tantk\OneDrive\Documents\GitHub\PhoneAppStuff\Phone.Logic\obj\Debug\net8.0\ref\Phone.Logic.dll
