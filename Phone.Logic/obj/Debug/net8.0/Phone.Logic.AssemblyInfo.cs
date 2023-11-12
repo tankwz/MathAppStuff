@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Phone.Logic")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+820c19399c84b86462ca4aeef1e2c31a92aa4d30")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
 [assembly: System.Reflection.AssemblyProductAttribute("Phone.Logic")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Phone.Logic")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
