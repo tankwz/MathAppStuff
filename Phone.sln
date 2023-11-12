@@ -1,0 +1,28 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phone.Logic", "Phone.Logic\Phone.Logic.csproj", "{0B131B0F-9018-4278-83D1-F2EC4E598BB5}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Phone.App", "Phone.App\Phone.App.csproj", "{2726AD04-4D39-4F8A-9EE4-4688378A4209}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0B131B0F-9018-4278-83D1-F2EC4E598BB5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0B131B0F-9018-4278-83D1-F2EC4E598BB5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0B131B0F-9018-4278-83D1-F2EC4E598BB5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0B131B0F-9018-4278-83D1-F2EC4E598BB5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2726AD04-4D39-4F8A-9EE4-4688378A4209}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2726AD04-4D39-4F8A-9EE4-4688378A4209}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2726AD04-4D39-4F8A-9EE4-4688378A4209}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2726AD04-4D39-4F8A-9EE4-4688378A4209}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal

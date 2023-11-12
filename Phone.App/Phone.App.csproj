@@ -1,7 +1,7 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
   <ItemGroup>
-    <ProjectReference Include="..\MathTutor.Logic\MathTutor.Logic.csproj" />
+    <ProjectReference Include="..\Phone.Logic\Phone.Logic.csproj" />
   </ItemGroup>
 
   <PropertyGroup>
